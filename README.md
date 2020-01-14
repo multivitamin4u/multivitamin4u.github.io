@@ -1,5 +1,7 @@
-Things in Space
+SPACEBALLS 2 - A STUFF IN SPACE VARIENT
 ===============
+
+Adapted Author: Neil M. (https://github.com/multivitamin4u) 
 
 Original author: James Yoder (https://github.com/jeyoder)
 
